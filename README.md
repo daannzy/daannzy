@@ -1,4 +1,4 @@
-# 👋 Introduction  
+# Introduction  
 Hey! My name is **daannzy**, and I'm an independent developer passionate about technology, mobile apps, and everything that involves logic, creativity, and challenge.
 
 Currently, I lead a small indie initiative where I create, modify, and publish Android applications. I'm also the organizer of a local **osu!droid** community, contributing with translations, support, and quality content for friends.
@@ -16,10 +16,10 @@ I'm also responsible for a local osu!droid group where I share updates, tips, an
 ## 🧠 Skills  
 Technologies and tools I use regularly:
 
-- 🧩 **Java (beginner level)**  
-- 🖌️ **XML for Android UI layouts**  
-- 🗃️ **Basic GitHub** (repositories, commits, organization)  
-- 📱 **Mobile tools** (APK Editor, translators, compilers)
+-  **Java (beginner level)**  
+-  **XML for Android UI layouts**  
+-  **Basic GitHub** (repositories, commits, organization)  
+-  **Mobile tools** (APK Editor, translators, compilers)
 
 **Areas I enjoy the most:**
 
