@@ -1,5 +1,5 @@
 # Introduction  
-Hey! My name is **daannzy**, and I’m an independent male developer passionate about technology, mobile apps, and everything that involves logic, creativity, and challenge.
+Hey! My name is **Dan**, and I’m an independent male developer passionate about technology, mobile apps, and everything that involves logic, creativity, and challenge.
 
 I currently lead a small indie initiative where I create, modify, and publish Android apps. I’m also the founder of a local **osu!droid** community, where I help with translations, tech support, and share content with friends.
 
