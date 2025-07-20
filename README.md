@@ -16,7 +16,7 @@ I also run a local osu!droid group, always aiming to bring helpful content to th
 ## Skills  
 Here are the technologies and tools I work with:
 
--  **Java (beginner level)**  
+-  **Phyton (beginner level)**  
 -  **XML for Android UI layouts**  
 -  **Basic GitHub** (repos, commits, versioning)  
 - **Mobile tools** (APK Editor, translators, compilers)
